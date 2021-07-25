@@ -1,9 +1,13 @@
 # 目录
 
 [快捷链接](#快捷链接)
-[确认文件是否上传/修改成功](#确认文件是否上传/修改成功)
-[恢复删除的文件（93天内）](#恢复删除的文件（93天内）)
+
+[确认文件是否上传或修改成功](#确认文件是否上传或修改成功)
+
+[恢复删除的文件(93天内)](#恢复删除的文件(93天内))
+
 [文件整理系统](#文件整理系统)
+
 [OneDrive使用提示](#OneDrive使用提示)
 
 
@@ -19,13 +23,13 @@
    
    也可在[SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)的左侧栏“笔记本”中打开
 
-## 确认文件是否上传/修改成功
+## 确认文件是否上传或修改成功
 
   1. 打开[SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)
 
   2. 登录账号
 
-## 恢复删除的文件（93天内）
+## 恢复删除的文件(93天内)
 
   1. 打开[SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)，点击左侧栏的“回收站”，
 
