@@ -13,15 +13,15 @@
 
 ## 快捷链接
 
-  [SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)：此共享文件夹的网站
+  * [SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)：此共享文件夹的网站
 
-  [PigeonEggs](https://github.com/3um/PigeonEggs): 整理的鸽子蛋群分享的链接
+  * [PigeonEggs](https://github.com/3um/PigeonEggs): 整理的鸽子蛋群分享的链接
 
-  [Xin420-Notebook](https://xin420.sharepoint.com/:o:/s/Xin420/EsKmi5PI-_5GkR7scjpvVZQBrbAoePdJQSmLuue9cShsCQ?e=n24W4I): 笔记本，方便记录想法和整理资料，已创建一个使用例子。
+  * [Xin420-Notebook](https://xin420.sharepoint.com/:o:/s/Xin420/EsKmi5PI-_5GkR7scjpvVZQBrbAoePdJQSmLuue9cShsCQ?e=n24W4I): 笔记本，方便记录想法和整理资料，已创建一个使用例子。
 
-   该笔记本为OneNote笔记本，除了网页上打开，也可以直接下载OneNote App进行使用
+       该笔记本为OneNote笔记本，除了网页上打开，也可以直接下载OneNote App进行使用
    
-   也可在[SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)的左侧栏“笔记本”中打开
+       也可在[SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)的左侧栏“笔记本”中打开
 
 ## 确认文件是否上传或修改成功
 
@@ -42,17 +42,17 @@
 
 ## 文件整理系统
 
-  **Xin**：Xin相关视频 ，已分好大类；若有遗漏的大类，自由增加
+  * **Xin**：Xin相关视频 ，已分好大类；若有遗漏的大类，自由增加
   
-   (每个大类里都有示例文件夹和示例文件，示范文件夹和文件的命名、整理方式）
+       (每个大类里都有示例文件夹和示例文件，示范文件夹和文件的命名、整理方式）
 
-  **Xin-Staged**: 下载好的Xin相关视频，不确定放哪儿的，暂时存放在此，后续移入Xin文件夹
+  * **Xin-Staged**: 下载好的Xin相关视频，不确定放哪儿的，暂时存放在此，后续移入Xin文件夹
 
-  **lib**：其他剪辑素材
+  * **lib**：其他剪辑素材
 
-  **software**: 软件安装包（剪辑软件、下载软件等）
+  * **software**: 软件安装包（剪辑软件、下载软件等）
 
-  **others**：随意放任何你们想分享的其他文件
+  * **others**：随意放任何你们想分享的其他文件
 
 ## OneDrive使用提示
 
