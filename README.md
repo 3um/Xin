@@ -1,6 +1,13 @@
-# README
+# 目录
 
-## 快捷链接：
+[快捷链接](#快捷链接)
+[确认文件是否上传/修改成功](#确认文件是否上传/修改成功)
+[恢复删除的文件（93天内）](#恢复删除的文件（93天内）)
+[文件整理系统](#文件整理系统)
+[OneDrive使用提示](#OneDrive使用提示)
+
+
+## 快捷链接
 
   [SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)：此共享文件夹的网站
 
@@ -12,7 +19,7 @@
    
    也可在[SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)的左侧栏“笔记本”中打开
 
-## 确认文件是否上传/修改成功：
+## 确认文件是否上传/修改成功
 
   1. 打开[SharedWebsite](https://xin420.sharepoint.com/sites/Xin420/Shared%20Documents/Forms/AllItems.aspx)
 
@@ -29,7 +36,7 @@
   3. 勾选所需的文件，还原
 
 
-## 文件整理系统：
+## 文件整理系统
 
   **Xin**：Xin相关视频 ，已分好大类；若有遗漏的大类，自由增加
   
@@ -43,7 +50,7 @@
 
   **others**：随意放任何你们想分享的其他文件
 
-## OneDrive使用提示：
+## OneDrive使用提示
 
   1. 创建、修改文件，记得要**打开OneDrive App**，否则OneDrive不会上传你的更改 （放后台就行）
 
